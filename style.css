@@ -1,0 +1,80 @@
+.header {
+  width: 100%;
+  height: 150px;
+  top: 0px;
+  background-color: #0000ff;
+  position: relative;
+  color: ghostwhite;
+  text-align: center;
+}
+.homesection {
+  width: 100%;
+  height: 50px;
+  background-color: #6495ed;
+  position: relative;
+  color: ghostwhite;
+}
+.home {
+  float: left;
+  width: 21%;
+  margin-left: 45px;
+}
+.about {
+  float: left;
+  line-height: 30px;
+  background-color: rgb(245, 241, 237);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h4 {
+  color: blue;
+  text-align: center;
+}
+.product {
+  background-color: #9aaa80;
+  width: 100%;
+  height: 930px;
+}
+.homeseriese {
+  background-color: rgb(140, 165, 186);
+  width: 29%;
+  float: left;
+  height: 400px;
+  margin: 1%;
+  padding: 1%;
+}
+.commercial {
+  background-color: rgb(52, 86, 113);
+  width: 29%;
+  float: left;
+  height: 400px;
+  margin: 1%;
+  padding: 1%;
+}
+.gaming {
+  background-color: rgb(150, 195, 233);
+  width: 29%;
+  height: 400px;
+  float: left;
+  margin: 1%;
+  padding: 1%;
+}
+.contactus {
+  background-color: #0000ff;
+  width: 100%;
+  height: 310px;
+}
+.address {
+  color: ghostwhite;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 20px;
+  float: left;
+}
+.form {
+  background-color: aliceblue;
+  float: right;
+  width: 40%;
+  margin: 1%;
+  padding: 1%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
